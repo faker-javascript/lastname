@@ -9,8 +9,14 @@ Lastname package provides functionality to generate a fake last name value.
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/lastname
+npm install @fakerjs/lastname --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/lastname -D
 ```
 
 ## Usage
